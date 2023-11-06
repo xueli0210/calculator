@@ -1,2 +1,1 @@
-# calculator
-A simple calculator using JavaScript
+# iPhone calculator
